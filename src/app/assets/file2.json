@@ -1,0 +1,10 @@
+{ 
+"SmeDirectDriverGradeModel": {
+     "connectSettings": {
+         "quoteExpiry": {
+             "smeDays": 8,
+             "corporateDays": 21
+         }
+     }
+ }
+ }
